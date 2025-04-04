@@ -9,5 +9,7 @@ This is the official repository for our B.Tech Final Year Project titled
 
 ## Project Overview
 We aim to build a speech-to-text translation system that works efficiently for low-resourced Indian languages like Dogri and Bhojpuri 
+## Guided By 
+Prof. Mrinmoy Bhattacharya
 
 
